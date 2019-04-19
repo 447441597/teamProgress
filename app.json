@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "pages": [
     "pages/pizzahut/pizzahut",
+=======
+  "pages":[
+    "pages/DairyQueen/DairyQueen",
+>>>>>>> fd9e37cf28f8dd9b56081490681a35eacb025643
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/xishiduo/xishiduo"
+
   ],
   "window": {
     "backgroundTextStyle": "light",
