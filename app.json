@@ -1,13 +1,15 @@
 {
-  "pages": [
-    "pages/xishiduo/xishiduo",
+  "pages":[
+    "pages/DairyQueen/DairyQueen",
     "pages/index/index",
-    "pages/logs/logs"   
+    "pages/logs/logs",
+    "pages/xishiduo/xishiduo"
+
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle": "black"
+    "navigationBarTitleText": "DQ冰雪皇后礼品卡",
+    "navigationBarTextStyle":"black"
   }
 }
