@@ -1,12 +1,14 @@
 {
   "pages":[
+    "pages/DairyQueen/DairyQueen",
     "pages/index/index",
     "pages/logs/logs"
+
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "DQ冰雪皇后礼品卡",
     "navigationBarTextStyle":"black"
   }
 }
