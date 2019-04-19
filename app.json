@@ -1,20 +1,47 @@
 {
-<<<<<<< HEAD
   "pages": [
+    "pages/xishiduo/xishiduo",
     "pages/pizzahut/pizzahut",
-=======
-  "pages":[
-    "pages/DairyQueen/DairyQueen",
->>>>>>> fd9e37cf28f8dd9b56081490681a35eacb025643
     "pages/index/index",
     "pages/logs/logs",
-    "pages/xishiduo/xishiduo"
-
+    "pages/DairyQueen/DairyQueen",
+    "pages/Chicken/Chicken"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#606a76",
+    "selectedColor": "#d8ac6b",
+    "position":"bottom",
+    "list": [
+      {
+        "pagePath": "pages/xishiduo/xishiduo",
+        "text": "喜士多",
+        "iconPath": "/images/xishiduo.png",
+        "selectedIconPath": "/images/xishiduo.png"
+      },
+      {
+        "pagePath": "pages/DairyQueen/DairyQueen",
+        "text": "冰雪皇后",
+        "iconPath": "/images/dq.png",
+        "selectedIconPath": "/images/dq.png"
+      },
+      {
+        "pagePath": "pages/Chicken/Chicken",
+        "text": "肯德基",
+        "iconPath": "/images/kfc.png",
+        "selectedIconPath": "/images/kfc.png"
+      },
+      {
+        "pagePath": "pages/pizzahut/pizzahut",
+        "text": "必胜客",
+        "iconPath": "/images/Pizza.png",
+        "selectedIconPath": "/images/Pizza.png"
+      }
+    ]
   }
 }

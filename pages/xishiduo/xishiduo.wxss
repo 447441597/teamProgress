@@ -1,4 +1,38 @@
 /* pages/xishiduo/xishiduo.wxss */
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding:0 30rpx;
+    margin-top: 86rpx;
+    font-size: 24rpx;
+    text-align: center;
+   
+
+}
+.nav image{
+    width: 88rpx;
+    height: 88rpx;
+   
+}
+.one{
+width: 100rpx;
+height: 61rpx;
+flex-shrink: 0
+}
+.one image{
+    width: 100rpx;
+height: 61rpx;
+}
+.three{
+    width: 132rpx;
+    height: 132rpx;
+    margin-top:-24rpx;
+
+}
+.three image{
+    width: 132rpx;
+    height: 132rpx;
+}
 .container{
     padding:0;
     
