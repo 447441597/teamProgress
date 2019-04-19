@@ -1,8 +1,10 @@
 {
-  "pages": [
+  "pages":[
+    "pages/DairyQueen/DairyQueen",
     "pages/index/index",
     "pages/logs/logs",
-    "pages/Chicken/Chicken"
+    "pages/xishiduo/xishiduo"
+
   ],
   "window": {
     "backgroundTextStyle": "light",
