@@ -1,0 +1,30 @@
+/* pages/xishiduo/xishiduo.wxss */
+.container{
+    padding:0;
+    
+}
+.banner{
+  width: 687rpx;
+  height: 413rpx;
+}
+.clound{
+  width: 58rpx;
+  height: 40rpx;
+}
+.cards{
+  margin-left: 30rpx;
+  display: flex;
+  flex-wrap: wrap;
+  height: 285rpx;
+}
+.card{
+  height: 190rpx;
+  width: 315rpx;
+  margin-right: 40rpx;
+}
+.cardItem{
+  font-size: 20rpx;
+  line-height: 2;
+  margin-top: 50rpx;
+  /* text-decoration:  */
+}
